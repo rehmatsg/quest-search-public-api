@@ -1,0 +1,896 @@
+{
+  "summary": "",
+  "sources": [],
+  "images": [],
+  "places": [
+    {
+      "id": "w8taOB25WBct_YBsuqc4vQ",
+      "alias": "la-casa-mia-santa-clara",
+      "name": "La Casa Mia",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VmlNu4GA5wp_9ASUOnZ77g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/la-casa-mia-santa-clara?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 457,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": 37.33625,
+        "longitude": -121.99419
+      },
+      "transactions": [],
+      "location": {
+        "address1": "3548 Homestead Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Santa Clara",
+        "zip_code": "95051",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3548 Homestead Rd",
+          "Santa Clara, CA 95051"
+        ]
+      },
+      "phone": "+18778880755",
+      "display_phone": "(877) 888-0755",
+      "distance": 3971.638298649294
+    },
+    {
+      "id": "g57_SLLN3jASzZcafLMdtw",
+      "alias": "fiorillos-restaurant-santa-clara-3",
+      "name": "Fiorillo's Restaurant",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j_7DQMyzOlMc1Hv8aoPufA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/fiorillos-restaurant-santa-clara-3?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 523,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "venues",
+          "title": "Venues & Event Spaces"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": 37.354669,
+        "longitude": -121.942127
+      },
+      "transactions": [
+        "delivery",
+        "pickup",
+        "restaurant_reservation"
+      ],
+      "location": {
+        "address1": "638 El Camino Real",
+        "address2": "",
+        "address3": "",
+        "city": "Santa Clara",
+        "zip_code": "95050",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "638 El Camino Real",
+          "Santa Clara, CA 95050"
+        ]
+      },
+      "phone": "+14089840414",
+      "display_phone": "(408) 984-0414",
+      "distance": 1160.704095736169
+    },
+    {
+      "id": "IWQmzgvpKFmGYeQmxmsCVA",
+      "alias": "mio-vicino-santa-clara",
+      "name": "Mio Vicino",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nRgX3cZ4IpqditO1odLrdA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mio-vicino-santa-clara?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 726,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": 37.34944933822443,
+        "longitude": -121.94826253104536
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "address1": "1290 Benton St",
+        "address2": "",
+        "address3": "",
+        "city": "Santa Clara",
+        "zip_code": "95050",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1290 Benton St",
+          "Santa Clara, CA 95050"
+        ]
+      },
+      "phone": "+14082419414",
+      "display_phone": "(408) 241-9414",
+      "distance": 805.5768844665258
+    },
+    {
+      "id": "bFRyCPb1OU7MYyY4CR3qKQ",
+      "alias": "rollati-ristorante-san-jose",
+      "name": "Rollati Ristorante",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n7hXLwNS9yo7xQTxhErWEg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/rollati-ristorante-san-jose?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 158,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 3.9,
+      "coordinates": {
+        "latitude": 37.3378919668619,
+        "longitude": -121.88718282945214
+      },
+      "transactions": [],
+      "location": {
+        "address1": "181 E Santa Clara St",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "zip_code": "95113",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "181 E Santa Clara St",
+          "San Jose, CA 95113"
+        ]
+      },
+      "phone": "+14084444080",
+      "display_phone": "(408) 444-4080",
+      "distance": 6271.290965868052
+    },
+    {
+      "id": "Ahga5g0HufU_G7S1n8WL8g",
+      "alias": "trattoria-360-campbell",
+      "name": "Trattoria 360",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZARuGgg9VLkSslc4rvIeBg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/trattoria-360-campbell?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 557,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": 37.286905,
+        "longitude": -121.943731616126
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "address1": "360 E Campbell Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Campbell",
+        "zip_code": "95008",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "360 E Campbell Ave",
+          "Campbell, CA 95008"
+        ]
+      },
+      "phone": "+14084298671",
+      "display_phone": "(408) 429-8671",
+      "distance": 7541.8224774769205
+    },
+    {
+      "id": "qOxfPW0dGHe-nMyEy0ZrHw",
+      "alias": "sweet-sicily-sunnyvale-5",
+      "name": "Sweet Sicily",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_dUflpjKo59Fnlrv0chvuA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sweet-sicily-sunnyvale-5?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 256,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 37.377361,
+        "longitude": -122.029701
+      },
+      "transactions": [
+        "delivery",
+        "pickup",
+        "restaurant_reservation"
+      ],
+      "location": {
+        "address1": "100 S Murphy Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Sunnyvale",
+        "zip_code": "94086",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "100 S Murphy Ave",
+          "Sunnyvale, CA 94086"
+        ]
+      },
+      "phone": "+14087339600",
+      "display_phone": "(408) 733-9600",
+      "distance": 7071.691895959158
+    },
+    {
+      "id": "yk4sQvYhp50HZRP7zaIZFg",
+      "alias": "locanda-sorrento-campbell",
+      "name": "Locanda Sorrento",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HZ1zROhroHYchHQVlQqEnA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/locanda-sorrento-campbell?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 565,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 37.286926,
+        "longitude": -121.948293
+      },
+      "transactions": [],
+      "location": {
+        "address1": "76 E Campbell Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Campbell",
+        "zip_code": "95008",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "76 E Campbell Ave",
+          "Campbell, CA 95008"
+        ]
+      },
+      "phone": "+14085407686",
+      "display_phone": "(408) 540-7686",
+      "distance": 7498.032442435129
+    },
+    {
+      "id": "1gUlwDbkVOz4xjaAjy4NDg",
+      "alias": "il-fornaio-santa-clara-2",
+      "name": "Il Fornaio",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wCsESggGPDj4a3V2PkNzEA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/il-fornaio-santa-clara-2?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 1963,
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 37.3822051,
+        "longitude": -121.9767941
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "address1": "2752 Augustine Dr",
+        "address2": "Ste 120",
+        "address3": null,
+        "city": "Santa Clara",
+        "zip_code": "95054",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2752 Augustine Dr",
+          "Ste 120",
+          "Santa Clara, CA 95054"
+        ]
+      },
+      "phone": "+14082178844",
+      "display_phone": "(408) 217-8844",
+      "distance": 3544.992446108911
+    },
+    {
+      "id": "eiOviOLjM_tBInEXP2VpNg",
+      "alias": "milan-san-jose-2",
+      "name": "Milan",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FOtFqGd-0-RTi6UEEaX_KA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/milan-san-jose-2?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 99,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 37.292268,
+        "longitude": -121.912447
+      },
+      "transactions": [
+        "restaurant_reservation"
+      ],
+      "location": {
+        "address1": "1712 Meridian Ave",
+        "address2": "Ste F",
+        "address3": "",
+        "city": "San Jose",
+        "zip_code": "95125",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1712 Meridian Ave",
+          "Ste F",
+          "San Jose, CA 95125"
+        ]
+      },
+      "phone": "+14086774096",
+      "display_phone": "(408) 677-4096",
+      "distance": 7860.282082839349
+    },
+    {
+      "id": "O0R8TkEE2eWDnp9xOOjHBQ",
+      "alias": "a-bellagio-italian-restaurant-campbell-2",
+      "name": "A Bellagio Italian Restaurant",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2dQYnxR2--YXzQgd4cq8oA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/a-bellagio-italian-restaurant-campbell-2?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 1224,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 37.2865477562745,
+        "longitude": -121.943798480214
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "location": {
+        "address1": "33 S Central Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Campbell",
+        "zip_code": "95008",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "33 S Central Ave",
+          "Campbell, CA 95008"
+        ]
+      },
+      "phone": "+14083707705",
+      "display_phone": "(408) 370-7705",
+      "distance": 7580.393605471849
+    },
+    {
+      "id": "zLViW6kDKNLIYsGkBCNorg",
+      "alias": "paesano-ristorante-italiano-san-jose",
+      "name": "Paesano Ristorante Italiano",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oDYRK0KAZ7Le47ZhDDt0ag/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/paesano-ristorante-italiano-san-jose?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 1320,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 37.336166540678,
+        "longitude": -121.89867135144
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "location": {
+        "address1": "350 W Julian St",
+        "address2": "Ste 1",
+        "address3": "",
+        "city": "San Jose",
+        "zip_code": "95110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "350 W Julian St",
+          "Ste 1",
+          "San Jose, CA 95110"
+        ]
+      },
+      "phone": "+14082179327",
+      "display_phone": "(408) 217-9327",
+      "distance": 5383.980716264721
+    },
+    {
+      "id": "hxeRSr57nAosHaKPJzMltw",
+      "alias": "la-pizzeria-cupertino-cupertino",
+      "name": "La Pizzeria Cupertino",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wylfk_RuiAdyE8fATr5Qwg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/la-pizzeria-cupertino-cupertino?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 179,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "vegan",
+          "title": "Vegan"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 37.3247704743891,
+        "longitude": -122.0139185
+      },
+      "transactions": [
+        "delivery",
+        "restaurant_reservation"
+      ],
+      "location": {
+        "address1": "10088 N Wolfe Rd",
+        "address2": "Ste 120",
+        "address3": "",
+        "city": "Cupertino",
+        "zip_code": "95014",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "10088 N Wolfe Rd",
+          "Ste 120",
+          "Cupertino, CA 95014"
+        ]
+      },
+      "phone": "+14088630308",
+      "display_phone": "(408) 863-0308",
+      "distance": 6128.117223762415
+    },
+    {
+      "id": "Pyc8bt2AZsUuY2-8LQPLaQ",
+      "alias": "bay-area-pizza-santa-clara",
+      "name": "Bay Area Pizza",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_2daqp5bLObk58t_aJ1eHw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bay-area-pizza-santa-clara?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 273,
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "pastashops",
+          "title": "Pasta Shops"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 37.33767498352927,
+        "longitude": -121.97894355624408
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "address1": "2898 Homestead Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Santa Clara",
+        "zip_code": "95051",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2898 Homestead Rd",
+          "Santa Clara, CA 95051"
+        ]
+      },
+      "phone": "+14082449444",
+      "display_phone": "(408) 244-9444",
+      "distance": 2780.3316510956734
+    },
+    {
+      "id": "4f8bHCUYwEn_6dLlQxZwGg",
+      "alias": "vitos-trattoria-san-jose",
+      "name": "Vito's Trattoria",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DLYOff6aA12_40S7UJV3zQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/vitos-trattoria-san-jose?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 771,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 37.365367,
+        "longitude": -121.916016
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "address1": "90 Skyport Dr",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "zip_code": "95110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "90 Skyport Dr",
+          "San Jose, CA 95110"
+        ]
+      },
+      "phone": "+14084531000",
+      "display_phone": "(408) 453-1000",
+      "distance": 3685.7616171180994
+    },
+    {
+      "id": "gXZNmuH7D_0ARM0FXOBSpg",
+      "alias": "tandoori-pizza-sunnyvale",
+      "name": "Tandoori Pizza",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Smv6HdBLUT05WFj98O8i0Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tandoori-pizza-sunnyvale?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 229,
+      "categories": [
+        {
+          "alias": "indpak",
+          "title": "Indian"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.3764238,
+        "longitude": -122.031769
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "address1": "241 W Washington Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Sunnyvale",
+        "zip_code": "94086",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "241 W Washington Ave",
+          "Sunnyvale, CA 94086"
+        ]
+      },
+      "phone": "+14088894881",
+      "display_phone": "(408) 889-4881",
+      "distance": 7205.117278566994
+    },
+    {
+      "id": "5uc07F6ztscpuPTQdmUZsg",
+      "alias": "sorelle-italian-bistro-campbell",
+      "name": "Sorelle Italian Bistro",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MWSbuqwaXIAkaNtF-_0Q3w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sorelle-italian-bistro-campbell?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 825,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 37.273802,
+        "longitude": -121.971816
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "location": {
+        "address1": "915 S San Tomas Aquino Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Campbell",
+        "zip_code": "95008",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "915 S San Tomas Aquino Rd",
+          "Campbell, CA 95008"
+        ]
+      },
+      "phone": "+14083741800",
+      "display_phone": "(408) 374-1800",
+      "distance": 9049.354420879148
+    },
+    {
+      "id": "G2F8iYPO-FH5e6bmEwvT5g",
+      "alias": "be-steak-a-campbell",
+      "name": "Be.Steak.A",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BHtJCxa45IdSiO2HxeCfsQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/be-steak-a-campbell?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 571,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "steak",
+          "title": "Steakhouses"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 37.287329,
+        "longitude": -121.934697
+      },
+      "transactions": [],
+      "location": {
+        "address1": "1887 S Bascom Ave",
+        "address2": null,
+        "address3": null,
+        "city": "Campbell",
+        "zip_code": "95008",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1887 S Bascom Ave",
+          "Campbell, CA 95008"
+        ]
+      },
+      "phone": "+14089632092",
+      "display_phone": "(408) 963-2092",
+      "distance": 7649.201101792465
+    },
+    {
+      "id": "01Ef5b0clhpv3RYuAR1HCw",
+      "alias": "vin-santo-ristorante-san-jose",
+      "name": "Vin Santo Ristorante",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mvqKbpJKoA5ipSZWm-qKVQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/vin-santo-ristorante-san-jose?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 863,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 3.8,
+      "coordinates": {
+        "latitude": 37.304512408122,
+        "longitude": -121.89778667565
+      },
+      "transactions": [
+        "delivery",
+        "pickup",
+        "restaurant_reservation"
+      ],
+      "location": {
+        "address1": "1346 Lincoln Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "zip_code": "95125",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1346 Lincoln Ave",
+          "San Jose, CA 95125"
+        ]
+      },
+      "phone": "+14083525564",
+      "display_phone": "(408) 352-5564",
+      "distance": 7498.042705407636
+    },
+    {
+      "id": "Q7OkRjnqIJmeZJHCnbnIcA",
+      "alias": "bertucellis-la-villa-san-jose",
+      "name": "Bertucelli's La Villa",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/z03TzD-cwEED-QOOyxx7Rw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bertucellis-la-villa-san-jose?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 1376,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 37.30458,
+        "longitude": -121.89858
+      },
+      "transactions": [
+        "pickup",
+        "delivery"
+      ],
+      "location": {
+        "address1": "1319 Lincoln Ave",
+        "address2": "",
+        "address3": "",
+        "city": "San Jose",
+        "zip_code": "95125",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1319 Lincoln Ave",
+          "San Jose, CA 95125"
+        ]
+      },
+      "phone": "+14082957851",
+      "display_phone": "(408) 295-7851",
+      "distance": 7443.727650332846
+    },
+    {
+      "id": "ulV7A5PRIZET2CEXCVcFnQ",
+      "alias": "orchestria-palm-court-san-jose",
+      "name": "Orchestria Palm Court",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/piIdk9nh5cxBoiaKa-gY7g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/orchestria-palm-court-san-jose?adjust_creative=QfirgEaTCrj0VidyZ_07ww&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QfirgEaTCrj0VidyZ_07ww",
+      "review_count": 216,
+      "categories": [
+        {
+          "alias": "tradamerican",
+          "title": "American"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "gluten_free",
+          "title": "Gluten-Free"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 37.329002,
+        "longitude": -121.88446
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "location": {
+        "address1": "27 E William St",
+        "address2": null,
+        "address3": "",
+        "city": "San Jose",
+        "zip_code": "95112",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "27 E William St",
+          "San Jose, CA 95112"
+        ]
+      },
+      "phone": "+14082885606",
+      "display_phone": "(408) 288-5606",
+      "distance": 6853.937701255965
+    }
+  ],
+  "knowledge_panel": null,
+  "query": "Best italian cuisines near me",
+  "search_type": "place",
+  "location": "Santa Clara",
+  "warnings": [],
+  "follow_ups": [
+    "Do they have any specialties at Trattoria 360?",
+    "What are the business hours of Trattoria 360?",
+    "Can I make a reservation at Trattoria 360 by phone?"
+  ],
+  "context": "Trattoria 360Rating: 4.7 stars for 557 reviewsLocation: 360 E Campbell Ave Campbell, CA 95008Phone: (408) 429-8671"
+}
